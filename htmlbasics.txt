@@ -1,0 +1,12 @@
+Start your html journey with the basics!
+
+In htmlbasics.html you can get a template to help you.
+
+First, make texts by <p>text here</p>
+That would make the word "text here"
+
+To make headings, do a <h1>My Heading</h1>
+These come in different sizes!
+
+To change the size, change the number in the <h()>
+Write an html file with this!
